@@ -17,3 +17,7 @@ I prefer to use podman, remember to add `unqualified-search-registries=["docker.
 Podman works with `Dockerfile`, to use it, just type:
 
     podman build .
+
+If you want to test it out, use `docker-compose`:
+
+    docker-compose build
