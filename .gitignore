@@ -1,1 +1,4 @@
+.gitingore
+Pipfile
 Pipfile.lock
+requirements.txt
