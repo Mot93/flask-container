@@ -47,3 +47,15 @@ To build the container:
 To launch the setup:
 
     docker-compose up
+    
+
+License
+-------
+
+MIT
+
+Author Information
+------------------
+
+If you like my work and whant to know more, visit my website:
+[mattiarubini.com](https://www.mattiarubini.com) 
